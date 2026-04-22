@@ -1,0 +1,76 @@
+{
+  "industry_context": {
+    "ind_retail": {
+      "headline": "The Future of Retail: Data-Driven Personalization",
+      "stat": "83%",
+      "title": "Retail Modernization",
+      "body": "Retailers are prioritizing infrastructure upgrades to support production-grade AI for personalized customer journeys."
+    },
+    "ind_hcls": {
+      "headline": "Healthcare Innovation: Precision & Security",
+      "stat": "4/5",
+      "title": "Clinical Efficiency",
+      "body": "Healthcare organizations cite governance and security as primary challenges when scaling AI across clinical workflows."
+    },
+    "ind_horizontal": {
+      "headline": "Google Cloud: Horizontal Value for Every Enterprise",
+      "stat": "Global",
+      "title": "Scalable Infrastructure",
+      "body": "Google Cloud provides the most secure and sustainable infrastructure to power your transformation, regardless of industry."
+    }
+  },
+  "tech_deep_dive": {
+    "tech_ai": {
+      "headline": "Agentic AI with Vertex AI",
+      "stat": "10x",
+      "title": "Productivity Gains",
+      "body": "Deploy production-grade AI agents that reason, plan, and execute complex workflows in sub-second latency."
+    },
+    "tech_data": {
+      "headline": "Data & Analytics with BigQuery",
+      "stat": "Zero",
+      "title": "Egress Costs",
+      "body": "Unlock insights from petabytes of data without moving it. BigQuery is the planetary-scale data warehouse for AI-ready data."
+    },
+    "tech_horizontal": {
+      "headline": "GCP Infrastructure: Built for the AI Era",
+      "stat": "TPU v5p",
+      "title": "AI Performance",
+      "body": "Leverage the same infrastructure that powers Google's largest models to train and serve your proprietary workloads."
+    }
+  },
+  "lob_value": {
+    "lob_marketing": {
+      "headline": "Marketing Transformation: Real-time Engagement",
+      "stat": "52%",
+      "title": "Marketing ROI",
+      "body": "Marketers are adopting hybrid multicloud architectures to ensure data sovereignty while delivering 1:1 personalization."
+    },
+    "lob_ops": {
+      "headline": "Operational Excellence: Predictive Efficiency",
+      "stat": "30%",
+      "title": "Opex Reduction",
+      "body": "Streamline supply chains and warehouse operations using Google's predictive AI models to eliminate waste."
+    },
+    "lob_horizontal": {
+      "headline": "Business Transformation for Every Leader",
+      "stat": "Value",
+      "title": "Strategic Growth",
+      "body": "Google Cloud helps business leaders bridge the gap between technical potential and commercial reality."
+    }
+  },
+  "next_steps": {
+    "inc_poc": {
+      "headline": "Next Steps: Proof of Concept",
+      "stat": "Jumpstart",
+      "title": "Rapid Innovation",
+      "body": "Let's launch a 4-week POC to prove the value of Gemini Enterprise in your specific environment."
+    },
+    "inc_standard": {
+      "headline": "Next Steps: Strategic Workshop",
+      "stat": "Partner",
+      "title": "Discovery Session",
+      "body": "Our technical architects will lead a discovery session to map your primary concerns to Google Cloud's AI platform."
+    }
+  }
+}
