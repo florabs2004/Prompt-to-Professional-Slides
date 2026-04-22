@@ -45,6 +45,19 @@ Simply trigger the skill in your Gemini CLI session using natural language:
 **Result:**
 Generates an editable `strategy_slide.pptx` in your current directory with a modern bento-box layout and bold statistics.
 
+## 🎨 Fun Example: The AI-Powered Taco Shop
+
+Here is a look at how the skill handles creative prompts:
+
+**Prompt:**
+> "Create a Gemini Enterprise slide for 'Taco-Bot 9000: The Future of Fast Casual'. Points: 1. 4.2M flavors with Generative Salsa, 2. 12s fulfillment with Agentic Assembly, 3. 0% waste using Predictive Guac."
+
+**Resulting Slide Structure:**
+- **Headline:** Taco-Bot 9000: The Future of Fast Casual
+- **Card 1 (4.2M):** *Generative Salsa* — ML-optimized spice levels tailored to every palate.
+- **Card 2 (12s):** *Agentic Assembly* — Autonomous precision for the perfect taco every time.
+- **Card 3 (0%):** *Predictive Guac* — BigQuery-driven ripening forecasts to eliminate waste.
+
 ## 📁 Repository Structure
 
 - `SKILL.md`: The instruction set and triggers for the Gemini CLI agent.
