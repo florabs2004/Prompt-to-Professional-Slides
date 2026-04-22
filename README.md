@@ -10,7 +10,6 @@ This repository contains a specialized skill for the [Gemini CLI](https://github
 - **Google Sans Typography:** Optimized for high-end professional presentations.
 - **Fully Editable:** Generates standard PowerPoint files with editable shapes and text boxes.
 - **Automated Layout:** Intelligently parses your points into a structured, visual-first slide.
-- **Sales Operations Architect:** A sophisticated multi-slide engine that maps 5 customer parameters to a customized 5-slide pitch deck.
 
 ## 🚀 Getting Started
 
@@ -35,8 +34,8 @@ python3 -m pip install python-pptx
 Simply trigger the skill in your Gemini CLI session using natural language:
 
 - *"Create a Gemini Enterprise style slide about our AI roadmap."*
-- *"Generate a 5-slide seller deck for a Retail client in Marketing looking at Vertex AI."*
 - *"Turn these 3 points into a professional slide: [Points]*"
+- *"Make a Gemini Enterprise pitch deck about the benefits of Model Context Protocol."*
 
 ### Example Workflow
 
